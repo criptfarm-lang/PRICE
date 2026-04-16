@@ -1,0 +1,12 @@
+{
+  "name": "fish-to-business",
+  "version": "2.0.0",
+  "description": "Fish to Business — прайс-лист и монитор цен МойСклад",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
